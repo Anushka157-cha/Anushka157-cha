@@ -1,14 +1,22 @@
 Hi 👋, I'm Anushka Chaudhary
+
 AI/ML • Data Science • MERN Stack • React Native •
-profile views
+
+          profile views
 
 🚀 About Me
+
 🎓 B.Tech CSE student at MMMUT
+
 🧑‍💻 MERN & React Native Developer
+
 🤖 AI/ML enthusiast — building ML models & automation tools
+
 📱 Developed apps, IoT systems, ML models & full-stack projects
-👨‍🏫 Member of Computer Engineering Society (CES)
-🎥 Creating content on tech, AI, and development @shivam_kushwahaaaa
+
+👨‍🏫 Member of FLUX (FLUX)
+
+🎥 Creating content on tech, AI, and development @AnushkaChaudhary
 
 🔥 Featured Projects
 🌾 Farm Connect
