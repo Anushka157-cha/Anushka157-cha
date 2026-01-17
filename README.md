@@ -15,6 +15,7 @@ AI/ML • Data Science • MERN Stack • React Native •
 📱 Developed apps, IoT systems, ML models & full-stack projects
 
 👨‍🏫 Member of FLUX (FLUX)
+
 🎥 Creating content on tech, AI, and development @AnushkaChaudhary
 
 🔥 Featured Projects
