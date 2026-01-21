@@ -2,8 +2,8 @@ Hi 👋, I'm Anushka Chaudhary
 
 AI/ML • Data Science • MERN Stack • React Native •
 
-          profile views
 
+          
 🚀 About Me
 
 🎓 B.Tech CSE student at MMMUT
